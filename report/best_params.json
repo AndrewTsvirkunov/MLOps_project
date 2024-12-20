@@ -1,0 +1,1 @@
+{"n_estimators": 1690, "learning_rate": 0.04448600650856316, "num_leaves": 740, "max_depth": 11, "reg_alpha": 22, "reg_lambda": 9, "min_split_gain": 0, "bagging_fraction": 0.3367320151876825, "bagging_freq": 1, "colsample_bytree": 0.6320671848989309, "objective": "mae", "random_state": 10}
